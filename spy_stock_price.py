@@ -19,6 +19,9 @@ spy_stock_price = {
     'june 25': 544.83,
     'june 26': 545.51,
     'june 27': 546.03,
+    'june 28': 544.22,
+    'july 1': 545.34,
+    'july 2': 549.01, 
     
 }
 print(spy_stock_price['june 19'])
